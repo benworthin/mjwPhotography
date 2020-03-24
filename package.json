@@ -1,0 +1,22 @@
+{
+  "name": "mjwphotography",
+  "version": "1.0.0",
+  "description": "MJW Photography website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benworthin/mjwPhotography.git"
+  },
+  "author": "Benjamin Worthington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benworthin/mjwPhotography/issues"
+  },
+  "homepage": "https://github.com/benworthin/mjwPhotography#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  }
+}
